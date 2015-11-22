@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_1_SumOf_3_Numbers
+namespace ConsoleInputOutput
 {
-    class Program
+    class SumOf_3_Numbers
     {
         static void Main(string[] args)
         {

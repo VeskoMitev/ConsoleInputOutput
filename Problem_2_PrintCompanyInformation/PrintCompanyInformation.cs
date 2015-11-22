@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_2_PrintCompanyInformation
+namespace ConsoleInputOutput
 {
-    class Program
+    class PrintCompanyInformation
     {
         static void Main(string[] args)
         {

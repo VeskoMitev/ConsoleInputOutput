@@ -7,7 +7,7 @@
     <ProjectGuid>{CB9F7B34-313E-4274-B325-51DDC591847C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Problem_2_PrintCompanyInformation</RootNamespace>
+    <RootNamespace>ConsoleInputOutput</RootNamespace>
     <AssemblyName>Problem_2_PrintCompanyInformation</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="PrintCompanyInformation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
