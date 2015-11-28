@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_1_SumOf_3_Numbers", "Problem_1_SumOf_3_Numbers\Problem_1_SumOf_3_Numbers.csproj", "{0C2C7C50-0E17-42E7-9EEE-51B87B223821}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_01_SumOf_3_Numbers", "Problem_1_SumOf_3_Numbers\Problem_01_SumOf_3_Numbers.csproj", "{0C2C7C50-0E17-42E7-9EEE-51B87B223821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_2_PrintCompanyInformation", "Problem_2_PrintCompanyInformation\Problem_2_PrintCompanyInformation.csproj", "{CB9F7B34-313E-4274-B325-51DDC591847C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_02_PrintCompanyInformation", "Problem_2_PrintCompanyInformation\Problem_02_PrintCompanyInformation.csproj", "{CB9F7B34-313E-4274-B325-51DDC591847C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_03_CirclePerimeterАndArea", "Problem_03_CirclePerimeterАndArea\Problem_03_CirclePerimeterАndArea.csproj", "{3204489C-CBFE-4F8B-A1FE-7350766F1694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_04_NumberComparer", "Problem_04_NumberComparer\Problem_04_NumberComparer.csproj", "{F878BA04-C059-4B8C-ACB3-FF47B6152A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_05_FormattingNumbers", "Problem_05_FormattingNumbers\Problem_05_FormattingNumbers.csproj", "{A930A22A-EC5E-4F9D-946D-641CEEE100C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{CB9F7B34-313E-4274-B325-51DDC591847C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB9F7B34-313E-4274-B325-51DDC591847C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB9F7B34-313E-4274-B325-51DDC591847C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3204489C-CBFE-4F8B-A1FE-7350766F1694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3204489C-CBFE-4F8B-A1FE-7350766F1694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3204489C-CBFE-4F8B-A1FE-7350766F1694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3204489C-CBFE-4F8B-A1FE-7350766F1694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F878BA04-C059-4B8C-ACB3-FF47B6152A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F878BA04-C059-4B8C-ACB3-FF47B6152A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F878BA04-C059-4B8C-ACB3-FF47B6152A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F878BA04-C059-4B8C-ACB3-FF47B6152A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A930A22A-EC5E-4F9D-946D-641CEEE100C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930A22A-EC5E-4F9D-946D-641CEEE100C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A930A22A-EC5E-4F9D-946D-641CEEE100C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A930A22A-EC5E-4F9D-946D-641CEEE100C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

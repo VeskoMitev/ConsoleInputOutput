@@ -9,6 +9,7 @@
             double secondNumber = double.Parse(Console.ReadLine());
             double thirdNumber = double.Parse(Console.ReadLine());
             Console.WriteLine("{0}", firstNumber + secondNumber + thirdNumber);
+
         }
     }
 }
