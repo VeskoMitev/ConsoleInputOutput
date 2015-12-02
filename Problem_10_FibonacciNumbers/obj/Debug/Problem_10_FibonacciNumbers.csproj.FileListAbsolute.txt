@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_10_FibonacciNumbers\bin\Debug\Problem_10_FibonacciNumbers.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_10_FibonacciNumbers\bin\Debug\Problem_10_FibonacciNumbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_10_FibonacciNumbers\bin\Debug\Problem_10_FibonacciNumbers.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_10_FibonacciNumbers\obj\Debug\Problem_10_FibonacciNumbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_10_FibonacciNumbers\obj\Debug\Problem_10_FibonacciNumbers.pdb

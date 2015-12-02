@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_09_ SumOf_n_Numbers\bin\Debug\Problem_09_ SumOf_n_Numbers.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_09_ SumOf_n_Numbers\bin\Debug\Problem_09_ SumOf_n_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_09_ SumOf_n_Numbers\bin\Debug\Problem_09_ SumOf_n_Numbers.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_09_ SumOf_n_Numbers\obj\Debug\Problem_09_ SumOf_n_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_09_ SumOf_n_Numbers\obj\Debug\Problem_09_ SumOf_n_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\bin\Debug\Problem_05_FormattingNumbers.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\bin\Debug\Problem_05_FormattingNumbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\bin\Debug\Problem_05_FormattingNumbers.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\obj\Debug\Problem_05_FormattingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\obj\Debug\Problem_05_FormattingNumbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_05_FormattingNumbers\obj\Debug\Problem_05_FormattingNumbers.pdb

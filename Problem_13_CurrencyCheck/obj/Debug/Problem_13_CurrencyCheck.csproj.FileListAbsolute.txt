@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_13_CurrencyCheck\bin\Debug\Problem_13_CurrencyCheck.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_13_CurrencyCheck\bin\Debug\Problem_13_CurrencyCheck.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_13_CurrencyCheck\bin\Debug\Problem_13_CurrencyCheck.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_13_CurrencyCheck\obj\Debug\Problem_13_CurrencyCheck.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_13_CurrencyCheck\obj\Debug\Problem_13_CurrencyCheck.pdb

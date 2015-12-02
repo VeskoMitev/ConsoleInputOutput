@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_06_QuadraticEquation\bin\Debug\Problem_06_QuadraticEquation.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_06_QuadraticEquation\bin\Debug\Problem_06_QuadraticEquation.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_06_QuadraticEquation\bin\Debug\Problem_06_QuadraticEquation.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_06_QuadraticEquation\obj\Debug\Problem_06_QuadraticEquation.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_06_QuadraticEquation\obj\Debug\Problem_06_QuadraticEquation.pdb

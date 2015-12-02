@@ -1,0 +1,6 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\bin\Debug\Problem_07_Sum_Of_5_Numbers.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\bin\Debug\Problem_07_Sum_Of_5_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\bin\Debug\Problem_07_Sum_Of_5_Numbers.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\obj\Debug\Problem_07_Sum_Of_5_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\obj\Debug\Problem_07_Sum_Of_5_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_07_Sum_Of_5_Numbers\obj\Debug\Problem_07_Sum_Of_5_Numbers.pdb

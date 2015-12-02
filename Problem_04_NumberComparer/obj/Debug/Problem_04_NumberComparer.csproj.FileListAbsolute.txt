@@ -1,0 +1,6 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\bin\Debug\Problem_04_NumberComparer.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\bin\Debug\Problem_04_NumberComparer.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\bin\Debug\Problem_04_NumberComparer.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\obj\Debug\Problem_04_NumberComparer.csprojResolveAssemblyReference.cache
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\obj\Debug\Problem_04_NumberComparer.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_04_NumberComparer\obj\Debug\Problem_04_NumberComparer.pdb

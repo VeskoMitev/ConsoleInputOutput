@@ -1,0 +1,6 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\obj\Debug\Problem_17_KnightPath.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\obj\Debug\Problem_17_KnightPath.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\bin\Debug\Problem_17_KnightPath.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\bin\Debug\Problem_17_KnightPath.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\bin\Debug\Problem_17_KnightPath.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_17_KnightPath\obj\Debug\Problem_17_KnightPath.csprojResolveAssemblyReference.cache

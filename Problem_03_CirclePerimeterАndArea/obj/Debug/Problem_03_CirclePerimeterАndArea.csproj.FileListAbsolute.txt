@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_03_CirclePerimeterАndArea\bin\Debug\Problem_03_CirclePerimeterАndArea.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_03_CirclePerimeterАndArea\bin\Debug\Problem_03_CirclePerimeterАndArea.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_03_CirclePerimeterАndArea\bin\Debug\Problem_03_CirclePerimeterАndArea.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_03_CirclePerimeterАndArea\obj\Debug\Problem_03_CirclePerimeterАndArea.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_03_CirclePerimeterАndArea\obj\Debug\Problem_03_CirclePerimeterАndArea.pdb

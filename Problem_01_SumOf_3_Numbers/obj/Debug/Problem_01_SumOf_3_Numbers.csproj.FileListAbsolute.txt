@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_01_SumOf_3_Numbers\bin\Debug\Problem_1_SumOf_3_Numbers.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_01_SumOf_3_Numbers\bin\Debug\Problem_1_SumOf_3_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_01_SumOf_3_Numbers\bin\Debug\Problem_1_SumOf_3_Numbers.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_01_SumOf_3_Numbers\obj\Debug\Problem_1_SumOf_3_Numbers.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_01_SumOf_3_Numbers\obj\Debug\Problem_1_SumOf_3_Numbers.pdb

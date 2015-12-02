@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_15_MagicWand\bin\Debug\Problem_15_MagicWand.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_15_MagicWand\bin\Debug\Problem_15_MagicWand.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_15_MagicWand\bin\Debug\Problem_15_MagicWand.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_15_MagicWand\obj\Debug\Problem_15_MagicWand.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_15_MagicWand\obj\Debug\Problem_15_MagicWand.pdb

@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_14_DreamItem\bin\Debug\Problem_14_DreamItem.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_14_DreamItem\bin\Debug\Problem_14_DreamItem.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_14_DreamItem\bin\Debug\Problem_14_DreamItem.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_14_DreamItem\obj\Debug\Problem_14_DreamItem.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_14_DreamItem\obj\Debug\Problem_14_DreamItem.pdb

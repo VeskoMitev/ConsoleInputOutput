@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_12_FallingRocks\bin\Debug\Problem_12_FallingRocks.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_12_FallingRocks\bin\Debug\Problem_12_FallingRocks.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_12_FallingRocks\bin\Debug\Problem_12_FallingRocks.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_12_FallingRocks\obj\Debug\Problem_12_FallingRocks.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_12_FallingRocks\obj\Debug\Problem_12_FallingRocks.pdb

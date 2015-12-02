@@ -1,0 +1,6 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\bin\Debug\Problem_2_PrintCompanyInformation.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\bin\Debug\Problem_2_PrintCompanyInformation.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\bin\Debug\Problem_2_PrintCompanyInformation.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\obj\Debug\Problem_2_PrintCompanyInformation.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\obj\Debug\Problem_2_PrintCompanyInformation.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_2_PrintCompanyInformation\obj\Debug\Problem_2_PrintCompanyInformation.csprojResolveAssemblyReference.cache

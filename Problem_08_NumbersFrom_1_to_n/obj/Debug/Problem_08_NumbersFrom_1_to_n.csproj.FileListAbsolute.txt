@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_08_NumbersFrom_1_to_n\bin\Debug\Problem_08_NumbersFrom_1_to_n.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_08_NumbersFrom_1_to_n\bin\Debug\Problem_08_NumbersFrom_1_to_n.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_08_NumbersFrom_1_to_n\bin\Debug\Problem_08_NumbersFrom_1_to_n.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_08_NumbersFrom_1_to_n\obj\Debug\Problem_08_NumbersFrom_1_to_n.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_08_NumbersFrom_1_to_n\obj\Debug\Problem_08_NumbersFrom_1_to_n.pdb

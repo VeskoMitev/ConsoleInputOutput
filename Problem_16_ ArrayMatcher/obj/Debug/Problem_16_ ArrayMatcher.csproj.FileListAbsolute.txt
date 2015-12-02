@@ -1,0 +1,5 @@
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_16_ ArrayMatcher\bin\Debug\Problem_16_ ArrayMatcher.exe.config
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_16_ ArrayMatcher\bin\Debug\Problem_16_ ArrayMatcher.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_16_ ArrayMatcher\bin\Debug\Problem_16_ ArrayMatcher.pdb
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_16_ ArrayMatcher\obj\Debug\Problem_16_ ArrayMatcher.exe
+C:\Users\VVM\Documents\SoftUni\BasicLevel\Homework\ConsoleInputOutput\Problem_16_ ArrayMatcher\obj\Debug\Problem_16_ ArrayMatcher.pdb
