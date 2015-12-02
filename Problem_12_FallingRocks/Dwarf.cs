@@ -28,7 +28,7 @@ namespace Problem_12_FallingRocks
        public void Crashed()
        {
            Lives -=1;
-           base.SymbolDraw = "{X}";
+           base.SymbolDraw = "{X}" ;
        }
     }
 }
