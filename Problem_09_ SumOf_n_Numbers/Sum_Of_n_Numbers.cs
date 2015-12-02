@@ -6,6 +6,17 @@ using System.Threading.Tasks;
 
 namespace ConsoleInputOutput
 {
+
+    /*
+     * Problem 9.	* Sum of n Numbers
+
+     * Write a program that enters a number n and after that enters 
+     * more n numbers and calculates and prints their sum. 
+     * Note that you may need to use a for-loop.
+     * 
+     */ 
+
+     
     class Sum_of_n_Numbers
     {
         static void Main(string[] args)
