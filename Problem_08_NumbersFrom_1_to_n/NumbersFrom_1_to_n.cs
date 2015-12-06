@@ -21,8 +21,9 @@ namespace ConsoleInputOutput
 
             for (int i = 0; i < n; i++)
             {
-                Console.WriteLine(i+1);
+                Console.Write("{0} ",i+1 );
             }
+            Console.WriteLine();
         }
     }
 }

@@ -69,7 +69,7 @@ namespace Problem_12_FallingRocks
                     ConsoleKeyInfo pressendKey = Console.ReadKey();
                     if (pressendKey.Key == ConsoleKey.LeftArrow  )
                     {
-                        if(dwarf.PositionX >=dwarf.SymbolWidth -2) 
+                        if(dwarf.PositionX >=dwarf.SymbolWidth -1) 
                             dwarf.PositionX -= 1;
                     }
                     else if (pressendKey.Key == ConsoleKey.RightArrow)
